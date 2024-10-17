@@ -10,7 +10,10 @@ Esse arquivo tem o intuito de documentar os passos realizados para a conclusão 
 
 - [@joaopaulonsilva](https://github.com/joaopaulonsilva/projetos/tree/main)
 
+## Links
 
+ - [Relatório Power BI](https://github.com/joaopaulonsilva/projetos/blob/main/Criando%20um%20Dashboard%20corporativo%20com%20integra%C3%A7%C3%A3o%20com%20MySQL%20e%20Azure.pbix)
+   
 ## Consulta SQL
 
 Código criado para junção dos colaboradores e respectivos nomes dos gerentes.
