@@ -4,7 +4,7 @@ Repositório criado para apresentar os passos realizados e arquivos necessários
 
 ## Links
 
- - [Arquivo do Power BI Desktop](https://github.com/joaopaulonsilva/projetos/blob/main/Criando%20um%20Dashboard%20corporativo%20com%20integra%C3%A7%C3%A3o%20com%20MySQL%20e%20Azure.pbix)
+ - [Arquivo do Power BI Desktop](https://github.com/joaopaulonsilva/Bootcamp_NTT_DATA_Engenharia_de_Dados/blob/main/Desafios/Criando%20um%20Dashboard%20corporativo%20com%20integra%C3%A7%C3%A3o%20com%20MySQL%20e%20Azure/Criando%20um%20Dashboard%20corporativo%20com%20integra%C3%A7%C3%A3o%20com%20MySQL%20e%20Azure.pbix)
    
 ## Consulta SQL
 
@@ -18,7 +18,7 @@ on a.super_ssn = b.ssn;
 
 ## Telas do Desafio
 
-![Relacionamentos entre tabelas](https://github.com/joaopaulonsilva/projetos/blob/main/relacionamentos.JPG)
+![Relacionamentos entre tabelas](https://github.com/joaopaulonsilva/Bootcamp_NTT_DATA_Engenharia_de_Dados/blob/main/Desafios/Criando%20um%20Dashboard%20corporativo%20com%20integra%C3%A7%C3%A3o%20com%20MySQL%20e%20Azure/assets/relacionamentos.JPG)
 
 ## Diferença entre Mesclar e Acrescentar
 
@@ -30,9 +30,9 @@ Já o Acrescentar Consultas realiza a união dados das duas tabelas, acrescentan
 
 - Mesclar Consultas
   
-![Mesclar Consultas](https://github.com/joaopaulonsilva/projetos/blob/main/mesclar_consultas.JPG)
+![Mesclar Consultas](https://github.com/joaopaulonsilva/Bootcamp_NTT_DATA_Engenharia_de_Dados/blob/main/Desafios/Criando%20um%20Dashboard%20corporativo%20com%20integra%C3%A7%C3%A3o%20com%20MySQL%20e%20Azure/assets/mesclar_consultas.JPG))
 
 - Acrescentar Consultas
   
-![Acrescentar Consultas](https://github.com/joaopaulonsilva/projetos/blob/main/acrescentar_consultas.JPG)
+![Acrescentar Consultas](https://github.com/joaopaulonsilva/Bootcamp_NTT_DATA_Engenharia_de_Dados/blob/main/Desafios/Criando%20um%20Dashboard%20corporativo%20com%20integra%C3%A7%C3%A3o%20com%20MySQL%20e%20Azure/assets/acrescentar_consultas.JPG)
 
