@@ -8,5 +8,5 @@ Esse repositório como objetivo de apresentar os arquivos criados para a conclus
 
 ## Páginas do arquivo publicado no Power BI Service (web)
 
-![Página 01](https://github.com/joaopaulonsilva/Bootcamp_NTT_DATA_Engenharia_de_Dados/blob/main/Desafios/%20Criando%20Um%20Relat%C3%B3rio%20Gerencial%20de%20Vendas%20com%20Power%20BI/assets/pagina_1.PNG)
-![Página 02](https://github.com/joaopaulonsilva/Bootcamp_NTT_DATA_Engenharia_de_Dados/blob/main/Desafios/%20Criando%20Um%20Relat%C3%B3rio%20Gerencial%20de%20Vendas%20com%20Power%20BI/assets/pagina_1.PNG)
+![Página 01](https://github.com/joaopaulonsilva/Bootcamp_NTT_DATA_Engenharia_de_Dados/blob/main/Desafios/%20Criando%20Um%20Relat%C3%B3rio%20Gerencial%20de%20Vendas%20com%20Power%20BI/assets/pagina_1.png)
+![Página 02](https://github.com/joaopaulonsilva/Bootcamp_NTT_DATA_Engenharia_de_Dados/blob/main/Desafios/%20Criando%20Um%20Relat%C3%B3rio%20Gerencial%20de%20Vendas%20com%20Power%20BI/assets/pagina_1.png)
