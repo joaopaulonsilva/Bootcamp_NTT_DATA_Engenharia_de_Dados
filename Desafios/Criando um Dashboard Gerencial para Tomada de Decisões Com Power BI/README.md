@@ -5,7 +5,7 @@ Esse repositório como objetivo de apresentar os arquivos e link criados para a 
 ## Link do relatório no Power BI Service (web)
 [Dashboard Gerencial](https://app.powerbi.com/groups/me/reports/fdb9bd25-4e51-49ba-857b-bfe9c1a1b3ae/83f018a6689e4b1ec2db)
 
-## Criação das tabelas
+## Criação do relatório
 O relatório foi criado seguindo os passos dos arquivos abaixo:
 
 [Descrição do desafio-Criando Relatórios Dinâmicos com o .docx](https://academiapme-my.sharepoint.com/:w:/r/personal/renato_dio_me/_layouts/15/Doc.aspx?sourcedoc=%7BC42EFF52-EE0B-4CB0-A9C2-F54B147D3219%7D&file=Descri%C3%A7%C3%A3o%20do%20desafio-Criando%20Relat%C3%B3rios%20Din%C3%A2micos%20com%20o%20.docx&action=default&mobileredirect=true)
