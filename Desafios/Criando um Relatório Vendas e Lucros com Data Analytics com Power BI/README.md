@@ -38,9 +38,9 @@ A página também possuí a visão de vendas por segmento, produto e país, send
 
 ### Página Detalhes
 
-A página é dedicada a apresentar maiores detalhes dos resultados de vendas. Temos a visão temporal por mês e semestre selecionada por meio dos dois botões (Semestre e Meses).
+A página é dedicada a apresentar maiores detalhes dos resultados de vendas. Temos a visão temporal por mês e semestre, selecionada por meio dos dois botões acima dos gráficos.
 > [!NOTE]
-> A visão mensal possuí uma linha tracejada inserida utilizando a função **Linha média**, para facilitar a visualição dos meses que estão acima da média.
+> A visão mensal possuí uma linha tracejada inserida utilizando a função **Linha média**, para facilitar a visualização dos meses que estão acima da média.
 A página também possuí a tabela com as vendas por trimestre e o Histograma das unidades vendidas.
 
 ![Homepage](https://github.com/joaopaulonsilva/Bootcamp_NTT_DATA_Engenharia_de_Dados/blob/main/Desafios/Criando%20um%20Relat%C3%B3rio%20Vendas%20e%20Lucros%20com%20Data%20Analytics%20com%20Power%20BI/assets/detalhes.png)
