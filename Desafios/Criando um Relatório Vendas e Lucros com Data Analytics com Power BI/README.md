@@ -15,28 +15,39 @@ O relatório foi criado seguindo os passos dos arquivos do link abaixo:
 Realizando as alterações no **sales_report_desafio_projeto** foi elaborado um relatório com novo design e funcionalidades abaixo:
 
 - Melhoria na visibilidade dos dados dos relatórios e experiência do usuário.
+- Alteração e padronização das cores e formas do relatório.
 - Revisão da segmentação dos dados.
-- Opção de navegação entre as páginas.
-- Aplicação da Proporção Áurea e Sequência de Fibonacci nas páginas do relatório.
+- Insersão de novas opções de navegação entre as páginas.
 
 ## Páginas do Relatório
 
 ### Homepage
 
-Nesta página foi realizada somente a insersão de uma forma com cantos arredondados com transparência na frente do texto para integrar essa página as demais, onde utilizei várias formas com cantos arredondados para segmentação dos dados. O botão **Explorar análise** foi mantido sem alterações e tem a função de direcionar o usuário a página Principal do relatório.
+Nesta página foi realizada somente a insersão de uma forma com cantos arredondados com transparência na frente do texto para integrar essa página as demais, onde utilizei várias formas com cantos arredondados para segmentação dos dados. O botão **Explorar análise** foi mantido sem alterações e tem a função de direcionar o usuário a página principal do relatório.
 
 ![Homepage](https://github.com/joaopaulonsilva/Bootcamp_NTT_DATA_Engenharia_de_Dados/blob/main/Desafios/Criando%20um%20Relat%C3%B3rio%20Vendas%20e%20Lucros%20com%20Data%20Analytics%20com%20Power%20BI/assets/homepage.png)
 
-### Principal
+### Página Principal
 
 A página é dedicada a apresentar os resultados de vendas. Os 5 cartões na parte superior apresentam o somatório dos principais indicadores. 
 > [!NOTE]
-> Um dos cartões foi alterado para apresentar a soma dos descontos pois, o relatório original possuia dois cartões com a mesma informação (soma de profit).<br></br>
-
-A página também possuí a visão de vendas por segmento, produto e país, sendo qque os gráficos com as visões segmento e país são dinâmicos.
-
-> [!TIP]
-> A imagem de fundo foi inserida como wallpaper e não como uma imagem inserida no relatório e enviada para trás como sugerido pela instrutora.
-> ![Wallpaper](https://github.com/joaopaulonsilva/Bootcamp_NTT_DATA_Engenharia_de_Dados/blob/main/Desafios/Criando%20um%20Relat%C3%B3rio%20Vendas%20e%20Lucros%20com%20Data%20Analytics%20com%20Power%20BI/assets/wallpaper.png)
+> Um dos cartões foi alterado para apresentar a soma dos descontos pois, o relatório original possuia dois cartões com a mesma informação (soma de profit).
+A página também possuí a visão de vendas por segmento, produto e país, sendo que os gráficos com as visões segmento e país são dinâmicos selecionados por meio dos botões acima dos gráficos.
 
 ![Homepage](https://github.com/joaopaulonsilva/Bootcamp_NTT_DATA_Engenharia_de_Dados/blob/main/Desafios/Criando%20um%20Relat%C3%B3rio%20Vendas%20e%20Lucros%20com%20Data%20Analytics%20com%20Power%20BI/assets/principal.png)
+
+### Página Detalhes
+
+A página é dedicada a apresentar maiores detalhes dos resultados de vendas. Temos a visão temporal por mês e semestre selecionada por meio dos dois botões (Semestre e Meses).
+> [!NOTE]
+> A visão mensal possuí uma linha tracejada inserida utilizando a função **Linha média**, para facilitar a visualição dos meses que estão acima da média.
+A página também possuí a tabela com as vendas por trimestre e o Histograma das unidades vendidas.
+
+![Homepage](https://github.com/joaopaulonsilva/Bootcamp_NTT_DATA_Engenharia_de_Dados/blob/main/Desafios/Criando%20um%20Relat%C3%B3rio%20Vendas%20e%20Lucros%20com%20Data%20Analytics%20com%20Power%20BI/assets/detalhes.png)
+
+
+
+> [!TIP]
+> A imagem de fundo de todas as páginas foi inserida como wallpaper e não como uma imagem inserida no relatório e enviada para trás, como sugere a instrutora.
+> 
+> ![Wallpaper](https://github.com/joaopaulonsilva/Bootcamp_NTT_DATA_Engenharia_de_Dados/blob/main/Desafios/Criando%20um%20Relat%C3%B3rio%20Vendas%20e%20Lucros%20com%20Data%20Analytics%20com%20Power%20BI/assets/wallpaper.png)
