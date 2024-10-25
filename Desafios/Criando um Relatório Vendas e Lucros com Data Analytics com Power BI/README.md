@@ -31,8 +31,8 @@ Nesta página foi realizada somente a insersão de uma forma com cantos arredond
 
 A página é dedicada a apresentar os resultados de vendas. Os 5 cartões na parte superior apresentam o somatório dos principais indicadores. 
 > [!NOTE]
-> Um dos cartões foi alterado para apresentar a soma dos lucros (sum of profit) pois, o relatório original possuia dois cartões com a mesma informação soma de desconto (sum of discounts).
-> Foi realizada a correção do botão **Treemap** pois, o mesmo não ocultava o gráfico de mapas (Map Chart).
+> - Um dos cartões foi alterado para apresentar a soma dos lucros (sum of profit) pois, o relatório original possuia dois cartões com a mesma informação soma de desconto (sum of discounts).<br><br>
+> - Foi realizada a correção do botão **Treemap** pois, o mesmo não ocultava o gráfico de mapas (Map Chart).
 A página também possuí a visão de vendas por segmento, produto e país, sendo que os gráficos com as visões segmento e país são dinâmicos selecionados por meio dos botões acima dos gráficos.
 
 ![Homepage](https://github.com/joaopaulonsilva/Bootcamp_NTT_DATA_Engenharia_de_Dados/blob/main/Desafios/Criando%20um%20Relat%C3%B3rio%20Vendas%20e%20Lucros%20com%20Data%20Analytics%20com%20Power%20BI/assets/principal.png)
@@ -45,6 +45,33 @@ A página é dedicada a apresentar maiores detalhes dos resultados de vendas. Te
 A página também possuí a tabela com as vendas por trimestre e o Histograma das unidades vendidas.
 
 ![Homepage](https://github.com/joaopaulonsilva/Bootcamp_NTT_DATA_Engenharia_de_Dados/blob/main/Desafios/Criando%20um%20Relat%C3%B3rio%20Vendas%20e%20Lucros%20com%20Data%20Analytics%20com%20Power%20BI/assets/detalhes.png)
+
+### Página Principais Produtos e Outliers
+
+A página é dedicada a apresentar as vendas discrepantes por meio de um gráfico de dispersão e os três principais produtos vendidos por país e no geral e possuí um menu de reprodução no qual é possível visualizar os dados mês a mês de forma contínua. 
+
+Os gráficos foram criados utilizando medidas e também a função P e R. Os códigos das medidas criadas são apresentados abaixo:
+
+```MEDIDAS
+TOP3 PRODUCT = CALCULATE(
+    [total sales],
+    TOPN(
+        3, 
+        ALL(financials[Product]),
+        [total sales]), 
+    VALUES(financials[Product])
+    )
+    
+outlier = CALCULATE( 
+    [total de vendidos],
+    FILTER(
+        VALUES(financials[Product]),
+        COUNTROWS( FILTER(financials, [total de vendidos] >= 150)) > 0
+    )
+)
+```
+
+![Homepage](https://github.com/joaopaulonsilva/Bootcamp_NTT_DATA_Engenharia_de_Dados/blob/main/Desafios/Criando%20um%20Relat%C3%B3rio%20Vendas%20e%20Lucros%20com%20Data%20Analytics%20com%20Power%20BI/assets/topn.png)
 
 
 
