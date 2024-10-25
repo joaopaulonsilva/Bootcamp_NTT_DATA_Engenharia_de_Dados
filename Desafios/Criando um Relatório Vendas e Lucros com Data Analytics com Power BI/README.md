@@ -31,7 +31,8 @@ Nesta página foi realizada somente a insersão de uma forma com cantos arredond
 
 A página é dedicada a apresentar os resultados de vendas. Os 5 cartões na parte superior apresentam o somatório dos principais indicadores. 
 > [!NOTE]
-> Um dos cartões foi alterado para apresentar a soma dos descontos pois, o relatório original possuia dois cartões com a mesma informação (soma de profit).
+> Um dos cartões foi alterado para apresentar a soma dos lucros (sum of profit) pois, o relatório original possuia dois cartões com a mesma informação soma de desconto (sum of discounts).
+> Foi realizada a correção do botão **Treemap** pois, o mesmo não ocultava o gráfico de mapas (Map Chart).
 A página também possuí a visão de vendas por segmento, produto e país, sendo que os gráficos com as visões segmento e país são dinâmicos selecionados por meio dos botões acima dos gráficos.
 
 ![Homepage](https://github.com/joaopaulonsilva/Bootcamp_NTT_DATA_Engenharia_de_Dados/blob/main/Desafios/Criando%20um%20Relat%C3%B3rio%20Vendas%20e%20Lucros%20com%20Data%20Analytics%20com%20Power%20BI/assets/principal.png)
