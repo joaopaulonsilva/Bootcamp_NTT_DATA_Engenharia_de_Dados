@@ -3,7 +3,7 @@
 Esse repositório como objetivo de apresentar os arquivos e link criados para a conclusão do desafio Criando um Relatório Vendas e Lucros com Data Analytics com Power BI. Nesse desafio houve a integração dos diversos assuntos abordados durante o bootcamp para aprimorar a experiência do usuário com a utilização de recursos e visuais mais avançados de análise de dados.
 
 ## Link do relatório no Power BI Service (web)
-[Relatório de Vendas e Lucros](https://app.powerbi.com/groups/me/reports/fdb9bd25-4e51-49ba-857b-bfe9c1a1b3ae/83f018a6689e4b1ec2db)
+[Relatório de Vendas e Lucros](https://app.powerbi.com/groups/me/reports/9925f7bf-f5be-4592-81d2-0ca55ed25d23?ctid=ff71608c-4f7a-46dc-9bb0-8fe371f5b679&pbi_source=linkShare)
 
 ## Criação do relatório
 O relatório foi criado seguindo os passos dos arquivos do link abaixo:
